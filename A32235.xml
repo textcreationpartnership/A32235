@@ -1,0 +1,180 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>A Fountain of loyal tears poured forth by a sorrowful son, for the untimely death of his royal father being a form of prayer to be used by all those that yet retain a spark of religion to God, or loyalty to their prince : recommended by King Charles the II, to be used by all his faithful subjects throughout his dominions, in these times of war, sickness, famine, trouble, and adversity.</title>
+         </titleStmt>
+         <editionStmt>
+            <edition>
+               <date>1649</date>
+            </edition>
+         </editionStmt>
+         <extent>Approx. 14 KB of XML-encoded text transcribed from 8 1-bit group-IV TIFF page images.</extent>
+         <publicationStmt>
+            <publisher>Text Creation Partnership,</publisher>
+            <pubPlace>Ann Arbor, MI ; Oxford (UK) :</pubPlace>
+            <date when="2011-12">2011-12 (EEBO-TCP Phase 2).</date>
+            <idno type="DLPS">A32235</idno>
+            <idno type="STC">Wing C3008</idno>
+            <idno type="STC">ESTC R20653</idno>
+            <idno type="EEBO-CITATION">12259377</idno>
+            <idno type="OCLC">ocm 12259377</idno>
+            <idno type="VID">57776</idno>
+            <availability>
+               <p>To the extent possible under law, the Text Creation Partnership has waived all copyright and related or neighboring rights to this keyboarded and encoded edition of the work described above, according to the terms of the CC0 1.0 Public Domain Dedication (http://creativecommons.org/publicdomain/zero/1.0/). This waiver does not extend to any page images or other supplementary files associated with this work, which may be protected by copyright or other license restrictions. Please go to https://www.textcreationpartnership.org/ for more information about the project.</p>
+            </availability>
+         </publicationStmt>
+         <seriesStmt>
+            <title>Early English books online.</title>
+         </seriesStmt>
+         <notesStmt>
+            <note>(EEBO-TCP ; phase 2, no. A32235)</note>
+            <note>Transcribed from: (Early English Books Online ; image set 57776)</note>
+            <note>Images scanned from microfilm: (Early English books, 1641-1700 ; 176:25)</note>
+         </notesStmt>
+         <sourceDesc>
+            <biblFull>
+               <titleStmt>
+                  <title>A Fountain of loyal tears poured forth by a sorrowful son, for the untimely death of his royal father being a form of prayer to be used by all those that yet retain a spark of religion to God, or loyalty to their prince : recommended by King Charles the II, to be used by all his faithful subjects throughout his dominions, in these times of war, sickness, famine, trouble, and adversity.</title>
+                  <author>Charles II, King of England, 1630-1685.</author>
+               </titleStmt>
+               <extent>16 p.   </extent>
+               <publicationStmt>
+                  <publisher>Printed by His Majesties special command,</publisher>
+                  <pubPlace>Paris :</pubPlace>
+                  <date>1649.</date>
+               </publicationStmt>
+               <notesStmt>
+                  <note>Introductory note signed: From our court in Jersey, Septemb. 14, 1649, Charles Rex.</note>
+                  <note>Reproduction of original in Huntington Library.</note>
+               </notesStmt>
+            </biblFull>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <projectDesc>
+            <p>Created by converting TCP files to TEI P5 using tcp2tei.xsl,
+      TEI @ Oxford.
+      </p>
+         </projectDesc>
+         <editorialDecl>
+            <p>EEBO-TCP is a partnership between the Universities of Michigan and Oxford and the publisher ProQuest to create accurately transcribed and encoded texts based on the image sets published by ProQuest via their Early English Books Online (EEBO) database (http://eebo.chadwyck.com). The general aim of EEBO-TCP is to encode one copy (usually the first edition) of every monographic English-language title published between 1473 and 1700 available in EEBO.</p>
+            <p>EEBO-TCP aimed to produce large quantities of textual data within the usual project restraints of time and funding, and therefore chose to create diplomatic transcriptions (as opposed to critical editions) with light-touch, mainly structural encoding based on the Text Encoding Initiative (http://www.tei-c.org).</p>
+            <p>The EEBO-TCP project was divided into two phases. The 25,368 texts created during Phase 1 of the project (2000-2009), initially available only to institutions that contributed to their creation, were released into the public domain on 1 January 2015. The approximately 40,000 texts produced during Phase 2 (2009- ), of which 34,963 had been released as of 2020, originally similarly restricted, were similarly freed from all restrictions on 1 August 2020. As of that date anyone is free to take and use these texts for any purpose (modify them, annotate them, distribute them, etc.). But we do respectfully request that due credit and attribution be given to their original source.</p>
+            <p>Users should be aware of the process of creating the TCP texts, and therefore of any assumptions that can be made about the data.</p>
+            <p>Text selection was based on the New Cambridge Bibliography of English Literature (NCBEL). If an author (or for an anonymous work, the title) appears in NCBEL, then their works are eligible for inclusion. Selection was intended to range over a wide variety of subject areas, to reflect the true nature of the print record of the period. In general, first editions of a works in English were prioritized, although there are a number of works in other languages, notably Latin and Welsh, included and sometimes a second or later edition of a work was chosen if there was a compelling reason to do so.</p>
+            <p>Image sets were sent to external keying companies for transcription and basic encoding. Quality assurance was then carried out by editorial teams in Oxford and Michigan. 5% (or 5 pages, whichever is the greater) of each text was proofread for accuracy and those which did not meet QA standards were returned to the keyers to be redone. After proofreading, the encoding was enhanced and/or corrected and characters marked as illegible were corrected where possible up to a limit of 100 instances per text. Any remaining illegibles were encoded as &lt;gap&gt;s. Understanding these processes should make clear that, while the overall quality of TCP data is very good, some errors will remain and some readable characters will be marked as illegible. Users should bear in mind that in all likelihood such instances will never have been looked at by a TCP editor.</p>
+            <p>The texts were encoded and linked to page images in accordance with level 4 of the TEI in Libraries guidelines.</p>
+            <p>Copies of the texts have been issued variously as SGML (TCP schema; ASCII text with mnemonic sdata character entities); displayable XML (TCP schema; characters represented either as UTF-8 Unicode or text strings within braces); or lossless XML (TEI P5, characters represented either as UTF-8 Unicode or TEI g elements).</p>
+            <p>Keying and markup guidelines are available at the <ref target="http://www.textcreationpartnership.org/docs/.">Text Creation Partnership web site</ref>.</p>
+         </editorialDecl>
+         <listPrefixDef>
+            <prefixDef ident="tcp"
+                       matchPattern="([0-9\-]+):([0-9IVX]+)"
+                       replacementPattern="http://eebo.chadwyck.com/downloadtiff?vid=$1&amp;page=$2"/>
+            <prefixDef ident="char"
+                       matchPattern="(.+)"
+                       replacementPattern="https://raw.githubusercontent.com/textcreationpartnership/Texts/master/tcpchars.xml#$1"/>
+         </listPrefixDef>
+      </encodingDesc>
+      <profileDesc>
+         <langUsage>
+            <language ident="eng">eng</language>
+         </langUsage>
+         <textClass>
+            <keywords scheme="http://authorities.loc.gov/">
+               <term>Prayer --  Early works to 1800.</term>
+            </keywords>
+         </textClass>
+      </profileDesc>
+      <revisionDesc>
+         <change>
+            <date>2010-04</date>
+            <label>TCP</label>Assigned for keying and markup</change>
+         <change>
+            <date>2010-04</date>
+            <label>SPi Global</label>Keyed and coded from ProQuest page images</change>
+         <change>
+            <date>2010-05</date>
+            <label>John Pas</label>Sampled and proofread</change>
+         <change>
+            <date>2010-05</date>
+            <label>John Pas</label>Text and markup reviewed and edited</change>
+         <change>
+            <date>2011-06</date>
+            <label>pfs</label>Batch review (QC) and XML conversion</change>
+      </revisionDesc>
+   </teiHeader>
+   <text xml:lang="eng">
+      <front>
+         <div type="title_page">
+            <pb facs="tcp:57776:1"/>
+            <pb facs="tcp:57776:1" rendition="simple:additions"/>
+            <p>A FOUNTAIN OF Loyal Tears, POURED FORTH <hi>BY A Sorrowful SON, for the <g ref="char:V">Ʋ</g>ntimely Death of His Royal</hi> FATHER.</p>
+            <p>Being a Form of <hi>Prayer</hi> to be Uſed by all thoſe that yet Retain a ſpark of Religion to <hi>God,</hi> or Loyalty to their <hi>Prince.</hi>
+            </p>
+            <p>Recommended by King <hi>Charles</hi> the II, to be uſed by all His faithful Subjects throughout. His Dominions, in theſe times of War, Sickneſs, Famine, Trouble, and Adverſity.</p>
+            <p>PARIS: <hi>Printed by His MAJESTIES ſpecial Command.</hi> 1649.</p>
+         </div>
+         <div type="king_to_subjects">
+            <pb facs="tcp:57776:2"/>
+            <p>FOraſmuch as it hath been the late <hi>Re<g ref="char:EOLhyphen"/>ſolves</hi> of thoſe that call themſelves <hi>The Commons Aſſembled in Parliament,</hi> to forbid Preaching and Praying in that <g ref="char:V">Ʋ</g>
+               <g ref="char:EOLhyphen"/>niform-way formerly agreed upon and en<g ref="char:EOLhyphen"/>joyned by Our royal Father, and Free Par<g ref="char:EOLhyphen"/>liaments: Therefore We have thought good to Commend unto all Our Loving Subjects a ſhort and eaſie Method of <hi>Prayer,</hi> that by joyntly ſeeking unto God, he may (as from the <hi>Ninivites</hi>) turn away his fierce wrath from <g ref="char:V">Ʋ</g>s miſerable Creatures, that ſo We may receive forgiveneſs of al Our manifold witkedneſs wherewith We have juſtly pro<g ref="char:EOLhyphen"/>voked his vengeance to deſtroy <g ref="char:V">Ʋ</g>s: There<g ref="char:EOLhyphen"/>fore as We have humbled Our Self before him by <hi>Faſting</hi> and <hi>Prayer,</hi> ſo We deſire all Our Loving Subjects to do the like; that We being delivered from the deſtructi<g ref="char:EOLhyphen"/>on of Our Enemies, may again be reſtored and brought to all good temprature of Go<g ref="char:EOLhyphen"/>vernment, Love, <g ref="char:V">Ʋ</g>nity, Charity, and all other Bleſſings; Which is the Only deſire of</p>
+            <closer>
+               <signed>Your Afflicted Soveraign <hi>Charles Rex.</hi>
+               </signed>
+               <dateline>
+                  <hi>From our Court in Jerſy</hi> 
+                  <date>Septemb. 14. 1649.</date>
+               </dateline>
+            </closer>
+         </div>
+      </front>
+      <body>
+         <div type="text">
+            <pb n="3" facs="tcp:57776:2"/>
+            <head>A Form of PRAYER.</head>
+            <div type="prayer">
+               <head>A Prayer for all oppreſſed People.</head>
+               <p>ALmighty and everlaſting God, We acknowledge and confeſs from the bottom of our hearts, That we are juſtly plagued for our manifold ſins and infirmities: We beſeech thee, for the merits of thy Son, to looke upon our manifold Miſeries with the eye of thy Mercy; and of thine infinit goodneſs vouchſafe to limit out ſome portion of our Deliverance unto us, as may ſeem moſt conducing to the Glory of thee, and thy Son Jeſus Chriſt: let not the children of iniquity, O Lord, any longer triumph over us; let our <gap reason="missing" extent="2 pages">
+                     <desc>〈2 pages missing〉</desc>
+                  </gap>
+                  <pb n="6" facs="tcp:57776:3"/>thee let the bloud of Chriſt ſhed in his members appeaſe thy juſtly incenſed an<g ref="char:EOLhyphen"/>ger againſt us for our ſins: O Lord, be<g ref="char:EOLhyphen"/>hold how they have not only deſtroyed their King, who was the lively Image of thy Sacred Majeſty on Earth, but yet reſt ſo unreaſonable, and unſatisfied, that they content not themſelves with the deſtruction of him and his loyal Sub<g ref="char:EOLhyphen"/>jects, but ſeek the deſtruction of his whole Posterity: their tongues O Lord are far ſharper then their Swords: they delight in nothing more, then to ſlan<g ref="char:EOLhyphen"/>der the footſteps of thine Anointed: in the place where they ſhould proclaim Peace and Salvation, they have Trum<g ref="char:EOLhyphen"/>peted forth Rebellion, Schiſme, and War, and the way of Peace they have not known: as the blind Jews, they have denyed the holy One, and the Juſt; and deſired a Murderer and a Rober to be granted unto them; holding it liberty to be led Captive by their own ſin; ra<g ref="char:EOLhyphen"/>ther chuſing to live in perpetual bon<g ref="char:EOLhyphen"/>dage under the Iron-yoak of a wicked, perverſe, and ungodly generation of men, then under the peaceable Govern<g ref="char:EOLhyphen"/>ment of a moſt gracious King: forgive
+<pb n="7" facs="tcp:57776:3"/>we beſeech thee the crying ſins of this Nation, the chief of which are Perjury, Murder, Sacriledge, and contempt of thy holy Word and Commandements; O Lord, we acknowledge there is an ac<g ref="char:EOLhyphen"/>count due for every idle word at thy Tribunal, then how much more for the breach of ſo many Oaths, Covenants, and Solemn Declarations pronounced with lifted up hands before thee? thou haſte, O God, commanded us to fear thee, and honor thy Vicegerent; but we quite contrary, have deſpiſed thee; and diſhonor'd, nay Murdered him thou commandeſt us to honor: Thou com<g ref="char:EOLhyphen"/>mandeſt us to love one another, even as thy Son loved us: but inſtead of loving, we have hated, nay killed and robbed one another: thou commandeſt us to eate the ſweat of our own brows, but we are contented with nothing more then to eat the ſweat of others; nay make it our work, and ſweat in defraud<g ref="char:EOLhyphen"/>ing our Neighbors; we have neglected thoſe things that were neceſſary for our eternal Salvation, and cleaved to the Momentary things of this World; we have not frequented thy houſe, and now
+<pb n="8" facs="tcp:57776:4"/>a Rebellious Houſe of Robbers and Theeves prey upon us: we were be<g ref="char:EOLhyphen"/>come a ſtiff-necked and rebellious Na<g ref="char:EOLhyphen"/>tion; and now thou haſt put an iron yoak about our necks, and made us ſlaves to ſlaves themſelves, the meaneſt (and moſt contemptible) of the People; whoſe Deſigns are Treaſonable, whoſe Religion is Hypocriſie, whoſe Practice is Bloudy, whoſe Power is Uſurpation, whoſe Ambition is Power; who by ir<g ref="char:EOLhyphen"/>religious Policy ſeek alwayes to prevent us from returning to our former Allegi<g ref="char:EOLhyphen"/>ance to our lawful King, as thou haſt commanded; Lord make them all as <hi>Athaliah,</hi> or as Rebellious <hi>Abſalom,</hi> and deliver us thy people, that put our only truſt in thee; raiſe up we beſeech thee a <hi>Moſes</hi> to thy People, and a <hi>Jehojadah</hi> to their King, that we being delivered from theſe Uſurpers, may ſerve thee with fear and reverence all our dayes, Amen.</p>
+            </div>
+            <div type="prayer">
+               <pb n="9" facs="tcp:57776:4"/>
+               <head>A Prayer in the time of Danger.</head>
+               <p>O Lord ever merciful and pittiful to thoſe that truly repent, and cry unto thee in their Afflictions, though our ſins are many and grievous, that we may ſtill rather expect thy further an<g ref="char:EOLhyphen"/>ger, then any Deliverance to free us thy poor Servants from ſo many heavy Plagues and Burdens that are laid upon us by our fellow Subjects, who now U<g ref="char:EOLhyphen"/>ſurpe Rule, and Tyrannize over us; O Lord, ſince thy Mercies are over all thy Works, and that thou never faileſt to Relieve all thoſe who with humble hearts, and unfained Affections come unto thee by Repentance: We beſeech thee for the Merits of thy only Son that ſuffered death for us, to protect us from the malice of all our cruel Enemies; ſince they have taken our Means, Lord, let not our Lives be the objects of their hatred; Call in we beſeech thee the Heir of our Vineyard, that we may weed out thoſe Brambls that with their ſharp
+<pb n="10" facs="tcp:57776:5"/>fruitleſs thornes catch us as in a trap, and by their tyranny and injuſtice hold us till they have deſtroyed us: We be<g ref="char:EOLhyphen"/>ſeech, thee ſince they will not frame their Will to thy Word, according to thy Word, let them periſh: let them be as <hi>Korah, Dathan,</hi> and <hi>Abiram,</hi> ſawllow<g ref="char:EOLhyphen"/>ed up by the Earth or meaneſt of the People, although they have exalted themſelves to heaven by their Proſperi<g ref="char:EOLhyphen"/>ty in wickedneſs, (accounting their ſuc<g ref="char:EOLhyphen"/>ceſs therein thy Work) yet make them know, that they have been but all this time digging their own graves, and ear<g ref="char:EOLhyphen"/>ning the wages of death, nay double damnation: Lord we beſeech thee pull off this Mask of Religion from the face of Rebellion, that thy people may be no longer deceived, but plainly ſee their Hypocriſie, and Reſtore unto us Juſtice, Piety, and Truth, that ſo we may again be made capable of Peace, Proſperity, and all other Bleſſings: O deliver thy Servants from the poyſon under their tongues, from the ſnares of their lipps, and from the fire and ſwords of their words, that under Colour of long-Pray<g ref="char:EOLhyphen"/>ers have not only ſought to devour the
+<pb n="11" facs="tcp:57776:5"/>Houſes of their Brethren, but of their King and their God, wreſting thy holy Word to their own diſtruction, have heaped unto themſelves falſe Teachers of the Calves of <hi>Jeroboam</hi> to ſerve them<g ref="char:EOLhyphen"/>ſelves in their wickedneſs, and Prophe<g ref="char:EOLhyphen"/>ſie Lies till they devour the Churches Patrimony, and the Kings Life that was her Nurſing Father, and the Peoples O<g ref="char:EOLhyphen"/>bedience, that were her dear Children; their eyes ſwell with fatneſs, &amp; as their Luſt moves them, even ſo they do; ac<g ref="char:EOLhyphen"/>counting it the dictates of thy holy Spi<g ref="char:EOLhyphen"/>rit, when it is the powerful working of Sathan in the Children of diſobedience: by the craft of their tongues they cor<g ref="char:EOLhyphen"/>rupt Divers, ſo that many people fall unto them, out of whom they ſuck no ſmall advantage, they have no misfor<g ref="char:EOLhyphen"/>tune happens unto them, neither are they chaſtized as others, but puffed up with Pride, and overwhelmed with Cru<g ref="char:EOLhyphen"/>elty, they proſper in the world, have the Houſes of God and the King in poſ<g ref="char:EOLhyphen"/>ſeſſion, they lay ſnares privily to take the upright in heart, that they may ſhed his innocent bloud, and devour him; they have prepar'd inſtruments of death
+<pb n="12" facs="tcp:57776:6"/>(Hooks, Pullyes, and the like) to per<g ref="char:EOLhyphen"/>ſecute the Anointed of the Lord, and tread down his Life and Honour in the duſt: Stand up O Lord in thy wrath, lift thy ſelf up becauſe of the indignati<g ref="char:EOLhyphen"/>on of our enemies; when thou makeſt Inquiſition for Blood remember them; and forget not the Complaint of the poor: let the Wicked be trapped in the work of their own hands, and ſink down into the Pitt they have digged for o<g ref="char:EOLhyphen"/>thers, and caught in their own Net; let them be turned backward into Hell, and all periſh that forget God, and ſet at naught his Commandements; their mouths are full of Fraud, Deceit, and Curſing; they are become ſo proud that they care not for God, neither is the Almighty in any of their thoughts, their wayes are grievous to thy People (be<g ref="char:EOLhyphen"/>cauſe they diſcern not thy Judgements) they defie the men that are more righ<g ref="char:EOLhyphen"/>teous then themſelves, they lurk privily in the theeviſh Corners of the ſtreets, and in their Dens to murder the inno<g ref="char:EOLhyphen"/>cent: their eyes are ſet againſt the poor, they diſſemble, fall down and humble themſelves, that the Congregations of
+<pb n="13" facs="tcp:57776:6"/>the poor may fal into the hands of their Captains: they flatter with their lips, and diſſemble with their double hearts; they have ſaid, With our Tongue wee will prevaile, we are they that ought to ſpeak, who is lord over us? their throat is an open Sepulchre, the poyſon of Aſps is under their lips, and their tongues are tipt with deceit, their ſpeeches are of Curſing and bitternrſs, their feet are ſwift to ſhed Blood, deſtruction is in their wayes, and the way of Peace have they not known: they work miſchief every day, and eat up the people as it were bread: they ſwear unto their Neighbors, and diſ-appoint them, and their Judges take a Reward to deſtroy the Righteous: Ariſe O Lord and ſave thy People that are in great adverſity and tribulation: who is God but the Lord? who hath any ſtrength except our God: It is he that will Guide our King with ſtrength of War, and make his way perfect: He ſhal teach his hands to fight, and make his armes to break a bow of Steel: He ſhall cauſe him to follow his Enemies and overtake them, and ſhall not return till they are de<g ref="char:EOLhyphen"/>ſtroyed:
+<pb n="14" facs="tcp:57776:7"/>the Lord will deliver him from his Cruel Enemies, and ſet him up a<g ref="char:EOLhyphen"/>bove his adverſaries, even from the ſtri<g ref="char:EOLhyphen"/>vings of the people ſhall he deliver him and make him the head of the Heathen, a ſtrange People ſhall ſerve him: then ſhall the Engliſh Rejoyce and give thanks to thee O Lord, and ſing praiſes unto thy Name that haſt heard their Prayers, and (after much Chaſtize<g ref="char:EOLhyphen"/>ments) haſt ſhewed they loving kind<g ref="char:EOLhyphen"/>neſs unto thine Anointed, and to his Seed for ever.</p>
+               <p>Save us O Lord, and hear us, O King of Heaven, when we call upon thee. <hi>Amen.</hi>
+               </p>
+            </div>
+            <div type="prayer">
+               <head>A Prayer for the King.</head>
+               <p>ALmighty and moſt merciful Fa<g ref="char:EOLhyphen"/>ther, We humbly beg and be<g ref="char:EOLhyphen"/>ſeech thee (for Jeſus Chriſt his ſake) to ſhowr down thy Bleſſings abundant<g ref="char:EOLhyphen"/>ly on the head of thy Servant and our Dread Soveraign Lord King <hi>Charles:</hi> We beſeech thee give us Obedient and
+<pb n="15" facs="tcp:57776:7"/>Loyal hearts to Him, as He unto thy Commandements; increaſe in His Loy<g ref="char:EOLhyphen"/>al Heart true Faith, godly Zeal, and love of the ſame; that He may alwayes incline to thy Will, and walk in thy wayes: give Him power and ſtrength, that He may re-gain His Rights, van<g ref="char:EOLhyphen"/>quiſh and overcome all His Enemies, and after a long and proſperous Reign, attain everlaſting Joy and Felicity, through Jeſus Chriſt our Lord. <hi>Amen.</hi>
+               </p>
+            </div>
+            <div type="prayer">
+               <head>A Prayer for the Queen, and the reſt of the Royal Branches.</head>
+               <p>O Almighty God, the Fountain of all goodneſs; We beſeech thee to bleſs our Gracious Queen <hi>Mary,</hi> and all Her Royal Off-ſpring: give Them a full meaſure of Joy after all their Sor<g ref="char:EOLhyphen"/>row, and evermore mightily Defend Them: endue them with thy holy Spi<g ref="char:EOLhyphen"/>rit, enrich Them with thy Heavenly Grace, proſper Them with all Happi<g ref="char:EOLhyphen"/>neſs, and bring Them to thine everlaſt<g ref="char:EOLhyphen"/>ing Kingdom, through Jeſus Chriſt our Lord. <hi>Amen.</hi>
+               </p>
+            </div>
+            <div type="prayer">
+               <pb n="16" facs="tcp:57776:8"/>
+               <head>A Prayer to be ſaid this time of War.</head>
+               <p>O Almighty God, King of all kings, and Governor of all things, whoſe power no Creature is able to reſiſt; to whom it belongs juſtly to puniſh rebel<g ref="char:EOLhyphen"/>lious Sinners, and to be merciful to all thoſe that be Obedient, and truely re<g ref="char:EOLhyphen"/>pent: Save and deliver us (we beſeech thee) from the hands of our Cruel and Bloody Enemies; abate their Pride, aſ<g ref="char:EOLhyphen"/>ſwage their Malice, and confound all their Plots and Devices; that thy Ser<g ref="char:EOLhyphen"/>vants being armed with thy Defence, may be evermore preſerved from all perils and dangers to glorifie thee that art the only giver of all Victory, through the Merits of thy only Son Je<g ref="char:EOLhyphen"/>ſus Chriſt our Lord. <hi>Amen.</hi>
+               </p>
+               <trailer>FINIS.</trailer>
+               <pb facs="tcp:57776:8" rendition="simple:additions"/>
+            </div>
+         </div>
+      </body>
+   </text>
+</TEI>
